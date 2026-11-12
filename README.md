@@ -121,15 +121,7 @@ open_to     : "Learning, collaboration & new opportunities"
 | **Movie App** | A movie discovery interface for exploring film information. | Built |
 | **Animation Showcase** | A creative web experiment focused on animation and motion. | Built |
 
-## Contribution Activity
 
-<div align="center">
-  <img
-    src="https://ghchart.rshah.org/FF69B4/ByHaidyEhab"
-    alt="Haidy's GitHub contribution chart"
-    width="100%"
-  />
-</div>
 
 ---
 
