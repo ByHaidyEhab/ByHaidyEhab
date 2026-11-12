@@ -104,6 +104,7 @@ open_to     : "Learning, collaboration & new opportunities"
   <img src="https://img.shields.io/badge/GitHub-DB5A91?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-DB5A91?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-DB5A91?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Figma-DB5A91?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/npm-DB5A91?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
 </p>
 
