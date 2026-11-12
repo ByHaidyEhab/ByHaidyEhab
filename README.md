@@ -125,7 +125,7 @@ open_to     : "Learning, collaboration & new opportunities"
 
 <div align="center">
   <img
-    src="https://ghchart.rshah.org/FF69B4/haidyehab162004"
+    src="https://ghchart.rshah.org/FF69B4/ByHaidyEhab"
     alt="Haidy's GitHub contribution chart"
     width="100%"
   />
