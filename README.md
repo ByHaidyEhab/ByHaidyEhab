@@ -1,116 +1,46 @@
 <div align="center">
 
-# ♡ Hi, I'm Haidy Ehab
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FFB6D9,55:FF69B4,100:DB5A91&text=Haidy%20Ehab&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Business%20Information%20Systems&descAlignY=62&descSize=14" alt="Haidy Ehab — Front-End Developer" />
 
-### `Developer • Creative Thinker • Lifelong Learner`
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=550&lines=Front-End+Developer+in+Progress;Exploring+the+World+of+Back-End;Building+Ideas+into+Digital+Experiences;Code+%2B+Creativity+%3D+Me+%E2%99%A1" />
-</p>
-
-<br/>
-
-<a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/PORTFOLIO-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LINKEDIN-FFB6D9?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/EMAIL-FFE4F0?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=haidyehab162004&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" />
+<a href="https://www.linkedin.com/in/haidy-ehab-47230530a"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:haidyehab162004@gmail.com"><img src="https://img.shields.io/badge/Email-DB5A91?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+## About
 
-## ♡ About Me
+I'm a Business Information Systems graduate focused on front-end development and building responsive, user-friendly web experiences. I work with JavaScript and React, and I’m expanding my skills in back-end development by building complete web applications.
 
-Hey! I'm Haidy, a Business Information Systems student with a passion for technology, development, and creative work.
+I enjoy combining clear interfaces with practical functionality, from product browsing and shopping flows to dashboards and interactive features.
 
-- 💻 Exploring the world of Web Development.
-- 🎨 Turning ideas into beautiful digital experiences.
-- 🚀 Learning Front-End & Back-End Development.
-- 🎬 Interested in Content Creation and Video Editing.
-- 🌱 Always learning, experimenting, and building something new.
+## Featured Project
 
-> *"Creativity is intelligence having fun."*
+### EareSoft Store
 
----
+A full-stack clothing store built with React, Vite, Express, and MongoDB. The application includes product browsing, search and filtering, a shopping cart, checkout with cash on delivery, user accounts, product reviews, and an admin area.
 
-## 🎀 Tech Stack & Tools
+- **Front end:** React, Vite, JavaScript, CSS
+- **Back end:** Node.js, Express, REST APIs
+- **Database:** MongoDB
+- **Repository:** [Add the project repository link]
+- **Demo:** [Add a live demo link when available]
 
-**Frontend Development**
+## Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark"/>
-</p>
+**Front end:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap  
+**Back end:** Node.js, Express, REST APIs  
+**Databases:** MongoDB, MySQL  
+**Tools:** Git, GitHub, VS Code, Postman, npm  
+**Animation:** GSAP, Framer Motion
 
-**Backend & Database**
+## Other Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
-</p>
-
-**Tools & Creative**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop&theme=dark"/>
-</p>
-
----
-
-## ✨ Beyond Coding
-
-I believe technology and creativity go hand in hand.
-
-Besides writing code, I enjoy exploring:
-
-- 🎬 Video Editing
-- 📱 Content Creation
-- 🎨 Digital Creativity
-- 💡 Learning New Technologies
-
----
-
-## 🌷 Featured Projects
-
-<div align="center">
-
-*Little ideas, big possibilities.*
-
-</div>
-
-<!-- Add your best repositories here -->
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=haidyehab162004&show_icons=true&theme=rose_pine&hide_border=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=haidyehab162004&theme=rose-pine&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidyehab162004&layout=compact&theme=rose_pine&hide_border=true"/>
-
-</div>
+Add a short selection of projects here, with one sentence on what each does and links to its code or live demo. Keep only projects you can show and describe clearly.
 
 ---
 
 <div align="center">
 
-### ♡ Thanks for stopping by!
-
-*Building, learning, and creating — one commit at a time.*
-
-**Made with ♡ by Haidy**
+Thanks for visiting my profile.
 
 </div>
