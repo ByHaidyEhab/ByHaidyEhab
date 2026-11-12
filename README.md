@@ -1,41 +1,137 @@
-<div align="center">
+from pathlib import Path
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FFB6D9,55:FF69B4,100:DB5A91&text=Haidy%20Ehab&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Business%20Information%20Systems&descAlignY=62&descSize=14" alt="Haidy Ehab — Front-End Developer" />
+content = r'''<div align="center">
 
-<a href="https://www.linkedin.com/in/haidy-ehab-47230530a"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:haidyehab162004@gmail.com"><img src="https://img.shields.io/badge/Email-DB5A91?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FFB6D9,50:FF69B4,100:DB5A91&text=Haidy%20Ehab&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Back-End%20Explorer%20%7C%20Creative%20Content%20Creator&descAlignY=62&descSize=14" />
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1100&color=FF8FC7&center=true&vCenter=true&width=650&lines=Building+thoughtful+digital+experiences;Learning+by+building%2C+one+project+at+a+time;Code+meets+creativity" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/haidy-ehab-47230530a">
+  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/haidyyehabb._/">
+  <img src="https://img.shields.io/badge/Instagram-DB5A91?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:haidyehab162004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFB6D9?style=flat-square&logo=gmail&logoColor=29212A" alt="Email"/>
+</a>
 
 </div>
 
-## About
+---
 
-I'm a Business Information Systems graduate focused on front-end development and building responsive, user-friendly web experiences. I work with JavaScript and React, and I’m expanding my skills in back-end development by building complete web applications.
+## About Me
 
-I enjoy combining clear interfaces with practical functionality, from product browsing and shopping flows to dashboards and interactive features.
+```bash
+┌──[haidy@developer]─[~]
+└─$ cat about.txt
 
-## Featured Project
+name        : "Haidy Ehab"
+role        : "Front-End Developer | Back-End Explorer"
+background  : "Business Information Systems"
+focus       : "Web Development & Digital Experiences"
+interests   : "Technology, Creative Work & Content Creation"
+mindset     : "Learn. Build. Improve. Repeat."
 
-### EareSoft Store
+mission: >
+  I enjoy turning ideas into responsive, accessible, and
+  engaging web experiences.
 
-A full-stack clothing store built with React, Vite, Express, and MongoDB. The application includes product browsing, search and filtering, a shopping cart, checkout with cash on delivery, user accounts, product reviews, and an admin area.
+  I work on strengthening my front-end skills with
+  JavaScript and React while exploring back-end development
+  and the way complete web applications work behind
+  the scenes.
 
-- **Front end:** React, Vite, JavaScript, CSS
-- **Back end:** Node.js, Express, REST APIs
-- **Database:** MongoDB
-- **Repository:** [Add the project repository link]
-- **Demo:** [Add a live demo link when available]
+  I’m also interested in the creative side of technology,
+  from motion and visual storytelling to content creation.
 
-## Skills
+currently   : "Growing my skills through hands-on projects"
+open_to     : "Learning, collaboration & new opportunities"
+```
 
-**Front end:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap  
-**Back end:** Node.js, Express, REST APIs  
-**Databases:** MongoDB, MySQL  
-**Tools:** Git, GitHub, VS Code, Postman, npm  
-**Animation:** GSAP, Framer Motion
+## What I Build
 
-## Other Projects
+|  | **Area** | **Description** |
+|:---:|---|---|
+| ◈ | **Business Websites** | Responsive websites that present brands, services, and ideas clearly. |
+| ◈ | **Front-End Applications** | Interactive web experiences built around usability and clean interfaces. |
+| ◈ | **E-Commerce Experiences** | Online shopping interfaces for browsing products and managing a store experience. |
+| ◈ | **Learning Platforms** | Educational experiences that help learners explore and organize learning content. |
+| ◈ | **Task Management Apps** | Applications with dynamic interactions, CRUD workflows, and API integration. |
+| ◈ | **API Integration** | Connecting front-end interfaces with back-end services and data. |
+| ◈ | **Animated Interfaces** | Thoughtful motion and interactive details that bring interfaces to life. |
 
-Add a short selection of projects here, with one sentence on what each does and links to its code or live demo. Keep only projects you can show and describe clearly.
+## Tech Stack
+
+**Frontend Engineering**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-FF69B4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+**Backend Engineering**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-DB5A91?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-DB5A91?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/REST_APIs-DB5A91?style=for-the-badge&logo= fastapi&logoColor=white" alt="REST APIs"/>
+</p>
+
+**Database Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-EA83B0?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-EA83B0?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+**Animations & Motion**
+
+<p>
+  <img src="https://img.shields.io/badge/GSAP-FF69B4?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-FF69B4?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+</p>
+
+**Developer Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-DB5A91?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-DB5A91?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-DB5A91?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-DB5A91?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/npm-DB5A91?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+</p>
+
+## Featured Projects
+
+*A selection of projects I’ve built or am currently developing. Live demos and repository links will be added as they’re published.*
+
+| **Project** | **Overview** | **Status** |
+|---|---|:---:|
+| **E-Commerce Platform** | A web-based shopping experience focused on product presentation and browsing. | Built |
+| **TrackLearn** | An e-learning platform centered around programming education. | In progress |
+| **To-Do List Application** | A task management web app built to practice JavaScript, CRUD operations, and API integration. | Built |
+| **Beauty Website** | A beauty and cosmetics-inspired e-commerce experience. | Built |
+| **Movie App** | A movie discovery interface for exploring film information. | Built |
+| **Animation Showcase** | A creative web experiment focused on animation and motion. | Built |
+
+## Contribution Activity
+
+<div align="center">
+  <img
+    src="https://ghchart.rshah.org/FF69B4/haidyehab162004"
+    alt="Haidy's GitHub contribution chart"
+    width="100%"
+  />
+</div>
 
 ---
 
@@ -43,4 +139,10 @@ Add a short selection of projects here, with one sentence on what each does and 
 
 Thanks for visiting my profile.
 
+**Building, learning, and creating — one commit at a time.**
+
 </div>
+'''
+path = Path("/mnt/data/README.md")
+path.write_text(content, encoding="utf-8")
+print(f"Created: {path}")
