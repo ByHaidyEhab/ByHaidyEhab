@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = r'''<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FFB6D9,50:FF69B4,100:DB5A91&text=Haidy%20Ehab&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Back-End%20Explorer%20%7C%20Creative%20Content%20Creator&descAlignY=62&descSize=14" />
 
@@ -142,7 +140,3 @@ Thanks for visiting my profile.
 **Building, learning, and creating — one commit at a time.**
 
 </div>
-'''
-path = Path("/mnt/data/README.md")
-path.write_text(content, encoding="utf-8")
-print(f"Created: {path}")
