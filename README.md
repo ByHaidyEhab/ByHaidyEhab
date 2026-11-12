@@ -81,7 +81,6 @@ open_to     : "Learning, collaboration & new opportunities"
 <p>
   <img src="https://img.shields.io/badge/Node.js-DB5A91?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-DB5A91?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/REST_APIs-DB5A91?style=for-the-badge&logo= fastapi&logoColor=white" alt="REST APIs"/>
 </p>
 
 **Database Systems**
